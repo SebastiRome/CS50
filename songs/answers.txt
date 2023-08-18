@@ -1,0 +1,9 @@
+Question 1:
+
+I will characterize their audio aura orange and yellow.
+
+Question 2 :
+
+If there is lots of different mood in the person's top 100 songs, with not much difference for each,
+the results of the 2 most prominent moods will not be precise.
+If you take more prominent moods,the result will be more accurate.
