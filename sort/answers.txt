@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because sorted list is almost instant so Omega n, and the other much longer
+
+sort2 uses: Merge sort
+
+How do you know?: Because all the list takes the same amount of time and shorter than list3, Theta n2 - n
+
+sort3 uses: Selection sort
+
+How do you know?: Because all the list takes the same amount of time and longer than list3, Theta n2
